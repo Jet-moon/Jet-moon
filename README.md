@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Undergraduate | Designer | Developer</strong><br>
-  Passionate UI/UX, concept artist, game asset creator, and 3D modeler. I love crafting Digital Products. 💻✨
+  Passionate UI/UX designer, concept artist, game asset creator, and 3D modeler. I love crafting Digital Products. 💻✨
 </p>
 
 ---
